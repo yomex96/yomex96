@@ -2,7 +2,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;YouTuber)](https://git.io/typing-svg)
 I'm interested in Web development, DevOps & Software Engineering <br>
 
-Currently I'm learning and developing new project
+Currently I'm learning and looking to collaborate 🤝 to develop myself
 
 ---
 ### My Stack
