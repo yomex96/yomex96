@@ -1,5 +1,5 @@
 # Abayomi Robert Onawole
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;youtuber)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;Cloud+Engineer)](https://git.io/typing-svg)
 
 
 I'm interested in Web development, DevOps & Software Engineering <br>
