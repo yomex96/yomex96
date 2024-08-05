@@ -1,8 +1,8 @@
-# Abayomi Robert Onawole Adeyeri
+# Abayomi Robert Onawole
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;YouTuber)](https://git.io/typing-svg)
 I'm interested in Web development, DevOps & Software Engineering <br>
 
-Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "ClickViral"): a social media and instant messaging platform<br>
+Currently I'm learning and developing new project
 
 ---
 ### My Stack
@@ -36,8 +36,8 @@ Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "Cli
 
 ### Contact Me: <br>
 
-*E-mail* adeyeriopeoluwa05@gmail.com<br>
-*Phone* +234(0)9075963886
+*E-mail* abayomirobertonawole@gmail.com<br>
+*Phone* +234(0)9032633953
 
 ---
 
