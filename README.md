@@ -1,24 +1,46 @@
-<p>
-	<h3 align="center">
-	Hello my name is yomex96 and this is my github
-		<img src="https://camo.githubusercontent.com/8688ddee7e890dd431c7a49285ea128dd7c42b8a20361e75da59aee75330bdc2/68747470733a2f2f626c6f672e6a6f79706978656c732e636f6d2f636f6e74656e742f696d616765732f323031392f30362f776176696e675f68616e645f7369676e5f313032342e676966" width="20px" height="18px"></a>
-	</h3>
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack specialisation with Holberton School<br>🤝 I’m looking for an internship starting the 11 september 2023<br>🌱 I’m currently learning React, Tailwind, Figma, MongoDB, and more <br>⚡ Fun fact i don't sleep much so i code
+# Abayomi Robert Onawole Adeyeri
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;YouTuber)](https://git.io/typing-svg)
+I'm interested in Web development, DevOps & Software Engineering <br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abayomi-robert-onawole/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Meteor JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=flat&logo=meteor&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cocofox1902&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cocofox1902&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cocofox1902&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cocofox1902&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
+Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "ClickViral"): a social media and instant messaging platform<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cocofox1902&icon=7&color=9)](https://visitcount.itsvg.in)
+### My Stack
+
+<p align="center">
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
+<a href="https://github.com/hardope target="_blank" rel="noreferrer"> 
+<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
+</a>
+<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a> 
+<img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/76790341/190482899-5367a114-82bb-48e4-987e-d371df18d545.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png"height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/hardope/hardope/assets/76790341/6b3a8d51-5374-4adf-ac87-2f8dd704ce64" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/hardope/hardope/assets/76790341/bdd1c63a-98bd-45fa-b82e-0f8c44485066" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/hardope/hardope/assets/76790341/3ca83c9d-439c-4d8b-b77c-5f6375ccee43" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/hardope/hardope/assets/76790341/66b41f49-af77-496f-ae72-dbd8dcbfa880" height="50" style="vertical-align:top; margin:4px">
+<img src="https://github.com/hardope/hardope/assets/76790341/425bdf25-ee62-40f0-a5c9-2c917f1ee9d2" height="50" style="vertical-align:top; margin:4px">
+
+</p>
+
+---
+
+### Contact Me: <br>
+
+*E-mail* adeyeriopeoluwa05@gmail.com<br>
+*Phone* +234(0)9075963886
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardope&theme=github"/>
