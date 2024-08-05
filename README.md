@@ -44,3 +44,10 @@ Currently I'm learning and looking to collaborate 🤝 to develop myself
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hardope"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hardope&theme=github"/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cocofox1902&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cocofox1902&icon=7&color=9)](https://visitcount.itsvg.in)
