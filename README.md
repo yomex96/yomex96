@@ -36,6 +36,9 @@ Currently I'm learning and looking to collaborate 🤝 to develop myself
 *E-mail* abayomirobertonawole@gmail.com<br>
 *Phone* +234(0)9032633953
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abayomi-robert-onawole/) 
+
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardope)](https://git.io/streak-stats)
