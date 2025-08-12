@@ -70,7 +70,7 @@ good
 | Repositories                                                             | Description                                                                                             |
 | -------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------- |
 | [HNG-Internship](https://github.com/laraadeboye/HNG-devops-internship)   | Real-time projects and  collaboration on DevOps Projects in a fast-paced environment                    | 
-| [Steghub-Devops-Internship](https://github.com/laraadeboye/Steghub-Devops-Cloud-Engineer/tree/main) | Real-time project based learnings and personal research                                     |
+| [Steghub-Devops-Internship](https://github.com/yomex96/steghub) | Real-time project based learnings and personal research                                     |
 | [AWS_projects](https://github.com/laraadeboye/AWS_projects)              | Different AWS services and in combination with other technologies                                       |
 | [AWS_Examples](https://github.com/laraadeboye/AWS-Examples)              | Hands-on covering numerous AWS services such as S3, Cloudformation, SDK, EKS etc.                       |
 | AZURE_projects                                                           | Different AZURE services and in combination with other technologies                                     |
