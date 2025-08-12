@@ -5,6 +5,7 @@
 ### About me
 * I am a Cloud/Devops Engineer.
 * I thrive on leveraging Devops tools and technologies to achieve faster deployments.
+* I also have knowledge of backend development.
 * I am continuously learning and implementing new skills to create impactful solutions to problems. View my [Certifications/badges](https://www.credly.com/users/abayomi-onawole/badges#)
   
   
@@ -76,10 +77,9 @@
 | AZURE_projects                                                           | Different AZURE services and in combination with other technologies                                     |
 | [CI-CD_pipelines](https://github.com/laraadeboye/CI-CD_pipelines)        | CI-CD pipelines combinining different devops tools and cloud                                            |
 | [DEVOPS_projects](https://github.com/laraadeboye/DEVOPS_projects)        | Terraform, Ansible, Docker, Kubernetes, Helm, ArgoCD, Github actions, Nexus, Jfrog, Grafana, Prometheus |
-| [BASIC_TECH](https://github.com/laraadeboye/BASIC_TECH)                  | Linux, shell scripts, python scripts, Web servers, Build tools, sql, languages                          |
 | [ALX-HIGHLEVEL PROGRAMMING](https://github.com/yomex96/alx-higher_level_programming)  | Projects in Python, SQL, and web development, focusing on higher-level programming concepts and best practices|
 | [ALX-LOW_LEVEL PROGRAMMING](https://github.com/yomex96/alx-low_level_programming)  | C programming, algorithms, and data structures — building a strong foundation in low-level systems development |
-| [ALX-SYSTEM ENGINEERING DEVOPS](https://github.com/yomex96/alx-system_engineering-devops)  |Linux, shell scripting, automation, networking, and DevOps tools for system administration and engineering.|
+| [ALX-SYSTEM ENGINEERING DEVOPS](https://github.com/yomex96/alx-system_engineering-devops)  |Linux, shell scripting, python scripts, Web servers, Build tools, automation, networking, and DevOps tools for system administration and engineering.|
 
 
 <!--
