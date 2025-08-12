@@ -74,10 +74,10 @@ good
 | [AWS_projects](https://github.com/laraadeboye/AWS_projects)              | Different AWS services and in combination with other technologies                                       |
 | [AWS_Examples](https://github.com/laraadeboye/AWS-Examples)              | Hands-on covering numerous AWS services such as S3, Cloudformation, SDK, EKS etc.                       |
 | AZURE_projects                                                           | Different AZURE services and in combination with other technologies                                     |
-| [GCP_projects](https://github.com/laraadeboye/GCP_projects)              | Different GOOGLE CLOUD services and in combination with other technologies                              |
 | [CI-CD_pipelines](https://github.com/laraadeboye/CI-CD_pipelines)        | CI-CD pipelines combinining different devops tools and cloud                                            |
 | [DEVOPS_projects](https://github.com/laraadeboye/DEVOPS_projects)        | Terraform, Ansible, Docker, Kubernetes, Helm, ArgoCD, Github actions, Nexus, Jfrog, Grafana, Prometheus |
 | [BASIC_TECH](https://github.com/laraadeboye/BASIC_TECH)                  | Linux, shell scripts, python scripts, Web servers, Build tools, sql, languages                          |
+| [ALX-HIGHER_LEVEL PROGRAMMING](https://github.com/yomex96/alx-higher_level_programming)  | Linux, shell scripts, python scripts, Web servers, Build tools, sql, languages          |
 
 <!--
 #### My stats:
