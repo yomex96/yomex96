@@ -5,7 +5,7 @@
 ### About me
 * I am a Cloud/Devops Engineer.
 * I thrive on leveraging Devops tools and technologies to achieve faster deployments.
-* I am continuously learning and implementing new skills to create impactful solutions to problems. View my [Certifications/badges](https://www.credly.com/users/omolara-adeboye/badges#)
+* I am continuously learning and implementing new skills to create impactful solutions to problems. View my [Certifications/badges](https://www.credly.com/users/abayomi-onawole/badges#)
   
   
 #### I have built and deployed software solutions using the following technologies:
