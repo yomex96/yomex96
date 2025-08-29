@@ -97,12 +97,6 @@
 <p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drintech22&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cocofox1902&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=cocofox1902&icon=7&color=9)](https://visitcount.itsvg.in)
-
 
 
 #### ✨ My blog posts
