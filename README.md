@@ -115,12 +115,17 @@
 
 ---
 
+<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yomex96&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
 
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yomex96&show_icons=true&theme=radical&locale=en" alt="drintech22" /></p>
 
-<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yomex96&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
+
 
 ----
+
+<p><a href="https://www.buymeacoffee.com/yomex96"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drintech" /></a></p><br><br>
+----
+
 
 
 
