@@ -109,6 +109,12 @@
 - [Configuring an Amazon VPC for a 3 tier web app](https://www.youtube.com/watch?v=W2Qn0fUSm6k)
 <!-- YT_VIDEO_LIST:END -->
 
+<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yomex96&show_icons=true&theme=radical&locale=en" alt="drintech22" /></p>
+
+---
+<p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yomex96&show_icons=true&theme=radical" alt="drintech22" /></p>
+ 
+
 <p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yomex96&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
 
 
