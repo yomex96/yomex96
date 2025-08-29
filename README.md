@@ -64,7 +64,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 -->
-
+---
+<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yomex96&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
 
 #### Find below the repositories I use to learn different technologies:
 
@@ -114,7 +115,6 @@
 
 ---
 
-<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yomex96&show_icons=true&theme=radical&locale=en&layout=compact" alt="drintech22" /></p>
 
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yomex96&show_icons=true&theme=radical&locale=en" alt="drintech22" /></p>
 
