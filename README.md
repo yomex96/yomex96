@@ -103,6 +103,7 @@
 - [LEMP STACK ON AWS](https://dev.to/laraadeboye/lemp-stack-on-aws-5cod)
 <!-- BLOG-POST-LIST:END -->
 
+<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yomex96&show_icons=true&theme=radical&locale=en" alt="drintech22" /></p>
 
 #### ✨ My Videos
 <!-- YT_VIDEO_LIST:START -->
@@ -117,7 +118,7 @@
 
 <p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yomex96&show_icons=true&theme=radical" alt="drintech22" /></p>
 
-<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yomex96&show_icons=true&theme=radical&locale=en" alt="drintech22" /></p>
+
 
 
 
